@@ -417,4 +417,4 @@ def main():
             for i, (_, row) in enumerate(ranked_df.head(10).iterrows()):
                 with st.expander(f"{i+1}. {row['Name']} (NSE: {row['NSE Code']})"):
                     st.markdown(f'<div class="card">', unsafe_allow_html=True)
-                    st.markdown(f'<span class="company-name">{row["Name"]}</span> <span class="company-code">({row["NSE Code"]})</span>', u<response clipped><NOTE>To save on context only part of this file has been shown to you. You should retry this tool after you have searched inside the file with `grep -n` in order to find the line numbers of what you are looking for.</NOTE>
+                    st.markdown(f'<span class="company-name">{row["Name"]}</span> <span class="company-code">({row["NSE Code"]})</span>', unsafe_allow_html=True)
