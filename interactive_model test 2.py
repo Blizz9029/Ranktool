@@ -7,7 +7,6 @@ import os
 import json
 from datetime import datetime, timedelta
 from pathlib import Path
-from scipy.stats import percentileofscore
 import matplotlib
 matplotlib.use('Agg')  # Use non-interactive backend
 import matplotlib.pyplot as plt
@@ -15,7 +14,6 @@ import seaborn as sns
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-!pip install scipy
 
 
 
