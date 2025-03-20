@@ -2636,8 +2636,6 @@ def display_sentiment_tab(sentiment_data, company_name):
                 st.markdown(f"**Source:** {row['Source']}")
 st.markdown(f"**Sentiment:** <span class='{sentiment_class}'>{row['Sentiment']}</span> (Polarity: {row['Polarity']:.2f}, Subjectivity: {row['Subjectivity']:.2f})", unsafe_allow_html=True)
                 
-                if 'URL' in row and row['https://www.livemint.com/market/stock-market-news/tvs-motor-company-shares-in-focus-ahead-of-board-meeting-to-consider-interim-dividend-11742440572104.html']:
-                    st.markdown(f"[Read full article]({row['https://www.livemint.com/market/stock-market-news/tvs-motor-company-shares-in-focus-ahead-of-board-meeting-to-consider-interim-dividend-11742440572104.html']})")
         
         # Download sentiment data
         st.markdown("### Download Sentiment Data")
