@@ -2639,16 +2639,6 @@ st.markdown(f"**Sentiment:** <span class='{sentiment_class}'>{row['Sentiment']}<
         
         # Download sentiment data
         # Create a button to fetch sentiment data
-        if st.button("Analyze News Sentiment"):
-            company_name = st.session_state.get('selected_company', 'Company')
-            company_code = "NSE:CODE"  # Default code if not available
-            
-            with st.spinner(f"Analyzing sentiment for {company_name}..."):
-                st.session_state.sentiment_data = fetch_and_analyze_company_sentiment(company_name, company_code)
-            
-            st.experimental_rerun()
-        else:
-            st.info("Select a company from the Rankings tab and click 'Analyze News Sentiment' to view sentiment analysis.")
 
 # Display company comparison tab
 def display_comparison_tab(ranked_df, selected_companies):
