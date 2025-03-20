@@ -1,14 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib
-matplotlib.use('Agg')  # Use non-interactive backend
-import matplotlib.pyplot as plt
-import seaborn as sns
-import io
-import base64
-import os
-import json
 try:
     import matplotlib
     matplotlib.use('Agg')  # Use non-interactive backend
@@ -17,7 +9,21 @@ try:
     MATPLOTLIB_AVAILABLE = True
 except ImportError:
     MATPLOTLIB_AVAILABLE = False
-    st.warning("Matplotlib or Seaborn not available. Visualizations will be disabled.")
+    import streamlit as st
+    st.error("Matplotlib or Seaborn not available. Visualizations will be disabled.")
+
+if MATPLOTLIB_AVAILABLE:
+    # Visualization code here
+else:
+    st.warning("Visualizations are disabled due to missing dependencies.")
+
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+import io
+import base64
+import os
+import json
 
 # Set page configuration
 st.set_page_config(
