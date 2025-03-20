@@ -1,0 +1,142 @@
+# IT Companies Financial Analysis Summary
+
+## Top 10 Companies Overview
+
+1. **Network People** (NSE: NPST)
+   - Ranking Score: 0.9517
+   - ROE: 63.69%, ROCE: 83.46%
+   - Free Cash Flow: ₹40.68 crores
+   - P/E Ratio: 69.79
+   - Buffett Score: 100.00, Lynch Score: 46.65
+   - **Why Ranked #1**: Strong ROE of 63.69%. Excellent ROCE of 83.46%. Positive free cash flow of ₹40.68 crores. Strong 5-year sales growth of 47.96%. Impressive 5-year profit growth of 82.67%. Low debt-to-equity ratio of 0.00. Aligns well with Warren Buffett's investment principles.
+
+2. **TCS** (NSE: TCS)
+   - Ranking Score: 0.7688
+   - ROE: 51.51%, ROCE: 64.28%
+   - Free Cash Flow: ₹41688.00 crores
+   - P/E Ratio: 26.36
+   - Buffett Score: 75.00, Lynch Score: 23.23
+   - **Why Ranked #2**: Strong ROE of 51.51%. Excellent ROCE of 64.28%. Positive free cash flow of ₹41688.00 crores. Attractive P/E ratio of 26.36. Strong 5-year sales growth of 10.46%. Low debt-to-equity ratio of 0.09.
+
+3. **Tanla Platforms** (NSE: TANLA)
+   - Ranking Score: 0.7576
+   - ROE: 31.71%, ROCE: 38.28%
+   - Free Cash Flow: ₹434.16 crores
+   - P/E Ratio: 11.46
+   - Buffett Score: 75.00, Lynch Score: 52.12
+   - **Why Ranked #3**: Strong ROE of 31.71%. Excellent ROCE of 38.28%. Positive free cash flow of ₹434.16 crores. Attractive P/E ratio of 11.46. Strong 5-year sales growth of 31.37%. Impressive 5-year profit growth of 86.79%. Low debt-to-equity ratio of 0.03. Matches Peter Lynch's growth at reasonable price criteria.
+
+4. **KPIT Technologi.** (NSE: KPITTECH)
+   - Ranking Score: 0.7108
+   - ROE: 31.19%, ROCE: 38.36%
+   - Free Cash Flow: ₹846.88 crores
+   - P/E Ratio: 44.90
+   - Buffett Score: 100.00, Lynch Score: 41.88
+   - **Why Ranked #4**: Strong ROE of 31.19%. Excellent ROCE of 38.36%. Positive free cash flow of ₹846.88 crores. Strong 5-year sales growth of 50.01%. Impressive 5-year profit growth of 49.45%. Low debt-to-equity ratio of 0.14. Aligns well with Warren Buffett's investment principles.
+
+5. **Infosys** (NSE: INFY)
+   - Ranking Score: 0.6882
+   - ROE: 31.83%, ROCE: 39.99%
+   - Free Cash Flow: ₹23009.00 crores
+   - P/E Ratio: 24.17
+   - Buffett Score: 100.00, Lynch Score: 19.77
+   - **Why Ranked #5**: Strong ROE of 31.83%. Excellent ROCE of 39.99%. Positive free cash flow of ₹23009.00 crores. Attractive P/E ratio of 24.17. Strong 5-year sales growth of 13.20%. Impressive 5-year profit growth of 11.24%. Low debt-to-equity ratio of 0.09. Aligns well with Warren Buffett's investment principles.
+
+6. **Tata Elxsi** (NSE: TATAELXSI)
+   - Ranking Score: 0.6555
+   - ROE: 34.47%, ROCE: 42.74%
+   - Free Cash Flow: ₹618.23 crores
+   - P/E Ratio: 40.55
+   - Buffett Score: 100.00, Lynch Score: 21.36
+   - **Why Ranked #6**: Strong ROE of 34.47%. Excellent ROCE of 42.74%. Positive free cash flow of ₹618.23 crores. Strong 5-year sales growth of 17.34%. Impressive 5-year profit growth of 22.42%. Low debt-to-equity ratio of 0.08. Aligns well with Warren Buffett's investment principles.
+
+7. **LTIMindtree** (NSE: LTIM)
+   - Ranking Score: 0.6237
+   - ROE: 25.03%, ROCE: 31.17%
+   - Free Cash Flow: ₹4836.50 crores
+   - P/E Ratio: 28.82
+   - Buffett Score: 75.00, Lynch Score: 30.83
+   - **Why Ranked #7**: Strong ROE of 25.03%. Excellent ROCE of 31.17%. Positive free cash flow of ₹4836.50 crores. Attractive P/E ratio of 28.82. Strong 5-year sales growth of 30.33%. Impressive 5-year profit growth of 24.77%. Low debt-to-equity ratio of 0.11.
+
+8. **HCL Technologies** (NSE: HCLTECH)
+   - Ranking Score: 0.6228
+   - ROE: 23.30%, ROCE: 29.60%
+   - Free Cash Flow: ₹21432.00 crores
+   - P/E Ratio: 24.77
+   - Buffett Score: 75.00, Lynch Score: 16.47
+   - **Why Ranked #8**: Strong ROE of 23.30%. Excellent ROCE of 29.60%. Positive free cash flow of ₹21432.00 crores. Attractive P/E ratio of 24.77. Strong 5-year sales growth of 12.71%. Low debt-to-equity ratio of 0.08.
+
+9. **BLS Internat.** (NSE: BLS)
+   - Ranking Score: 0.6205
+   - ROE: 31.09%, ROCE: 31.02%
+   - Free Cash Flow: ₹286.08 crores
+   - P/E Ratio: 31.58
+   - Buffett Score: 100.00, Lynch Score: 20.46
+   - **Why Ranked #9**: Strong ROE of 31.09%. Excellent ROCE of 31.02%. Positive free cash flow of ₹286.08 crores. Attractive P/E ratio of 31.58. Strong 5-year sales growth of 15.84%. Impressive 5-year profit growth of 33.07%. Low debt-to-equity ratio of 0.27. Aligns well with Warren Buffett's investment principles.
+
+10. **Rategain Travel** (NSE: RATEGAIN)
+   - Ranking Score: 0.6173
+   - ROE: 13.44%, ROCE: 17.45%
+   - Free Cash Flow: ₹148.18 crores
+   - P/E Ratio: 25.68
+   - Buffett Score: 75.00, Lynch Score: 27.94
+   - **Why Ranked #10**: Excellent ROCE of 17.45%. Positive free cash flow of ₹148.18 crores. Attractive P/E ratio of 25.68. Strong 5-year sales growth of 29.62%. Impressive 5-year profit growth of 75.22%. Low debt-to-equity ratio of 0.01.
+
+
+## Warren Buffett Investment Philosophy Matches
+
+Warren Buffett's investment philosophy focuses on companies with consistent returns, low debt, strong profit margins, and sustainable competitive advantages.
+
+- **Network People** (Buffett Score: 100.00)
+  - ROE: 63.69%, ROCE: 83.46%
+  - Debt to Equity: 0.00
+  - Operating Profit Margin: 33.77%
+  - 5-Year Profit Growth: 82.67%
+
+- **KPIT Technologi.** (Buffett Score: 100.00)
+  - ROE: 31.19%, ROCE: 38.36%
+  - Debt to Equity: 0.14
+  - Operating Profit Margin: 20.65%
+  - 5-Year Profit Growth: 49.45%
+
+- **Infosys** (Buffett Score: 100.00)
+  - ROE: 31.83%, ROCE: 39.99%
+  - Debt to Equity: 0.09
+  - Operating Profit Margin: 23.84%
+  - 5-Year Profit Growth: 11.24%
+
+- **Tata Elxsi** (Buffett Score: 100.00)
+  - ROE: 34.47%, ROCE: 42.74%
+  - Debt to Equity: 0.08
+  - Operating Profit Margin: 27.55%
+  - 5-Year Profit Growth: 22.42%
+
+- **BLS Internat.** (Buffett Score: 100.00)
+  - ROE: 31.09%, ROCE: 31.02%
+  - Debt to Equity: 0.27
+  - Operating Profit Margin: 28.00%
+  - 5-Year Profit Growth: 33.07%
+
+
+## Peter Lynch Investment Philosophy Matches
+
+Peter Lynch's investment philosophy focuses on companies with reasonable P/E ratios relative to growth (PEG ratio), strong growth potential, and understandable business models.
+
+- **Tanla Platforms** (Lynch Score: 52.12)
+  - PEG Ratio: 0.13
+  - 5-Year Sales Growth: 31.37%
+  - P/E Ratio: 11.46
+  - ROE: 31.71%
+
+
+## Methodology
+
+The ranking algorithm uses a weighted approach considering the following factors:
+
+1. **Core Financial Metrics (50%)**: ROE, ROCE, Free Cash Flow, P/E Ratio
+2. **Growth Metrics (20%)**: Sales Growth, Profit Growth
+3. **Balance Sheet Strength (15%)**: Debt-to-Equity, Current Ratio, Interest Coverage
+4. **Valuation Metrics (15%)**: P/B Ratio, P/S Ratio, Dividend Yield
+5. **Investment Philosophy Alignment**: Additional weight given to companies matching Buffett and Lynch criteria
+
+All metrics were normalized to ensure fair comparison across different scales, and the final ranking score represents a comprehensive evaluation of each company's financial health and investment potential.
