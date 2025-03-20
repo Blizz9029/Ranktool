@@ -7,7 +7,7 @@ import os
 
 # Set page configuration
 st.set_page_config(
-    page_title="IT Companies Financial Model",
+    page_title="Companies Financial Model",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
