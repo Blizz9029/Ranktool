@@ -12,12 +12,6 @@ except ImportError:
     import streamlit as st
     st.error("Matplotlib or Seaborn not available. Visualizations will be disabled.")
 
-if MATPLOTLIB_AVAILABLE:
-    # Visualization code here
-else:
-    st.warning("Visualizations are disabled due to missing dependencies.")
-
-
 import matplotlib.pyplot as plt
 import seaborn as sns
 import io
