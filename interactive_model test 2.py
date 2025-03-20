@@ -2638,7 +2638,6 @@ st.markdown(f"**Sentiment:** <span class='{sentiment_class}'>{row['Sentiment']}<
                 
         
         # Download sentiment data
-        st.markdown("### Download Sentiment Data")
         st.markdown(create_download_link(sentiment_df, f"{company_name}_sentiment.csv", "Download Sentiment Data CSV"), unsafe_allow_html=True)
     else:
         # Create a button to fetch sentiment data
