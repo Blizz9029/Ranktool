@@ -727,10 +727,9 @@ def generate_demo_sentiment_data(company_name):
         'sentiment_count': sentiment_count
     }
 
-def fetch_and_analyze_company_sentiment(company_name, company_code):
-    """Fetch news
+    
 
-    def fetch_and_analyze_company_sentiment(company_name, company_code):
+def fetch_and_analyze_company_sentiment(company_name, company_code):
     """Fetch news about a company and analyze sentiment"""
     # In a real application, this would call a news API
     # For demo purposes, we'll use the demo data generator
